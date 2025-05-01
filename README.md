@@ -29,11 +29,11 @@ This project addresses critical business questions across three levels of comple
 ## 🛠️ Technical Implementation
 
 ### Technologies Used
-- SQL (PostgreSQL/MySQL)
-- Database design and normalization principles
-- Aggregate functions and advanced JOIN operations
-- Subqueries and Common Table Expressions (CTEs)
-- Window functions for sophisticated data analysis
+- PostgreSQL 14.0
+- SQL Data Analysis
+- MySQL Workbench 8.0
+- Database Schema Normalization
+- Git & GitHub Version Control
 
 ### Key Technical Highlights
 - Implemented complex multi-table joins to connect customer data with purchase history
